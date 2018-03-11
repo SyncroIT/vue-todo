@@ -11,7 +11,7 @@
                         or
                     </div>
                     <generate-form></generate-form>
-                    <elements-list></elements-list>
+                    <elements-list class="mt-5"></elements-list>
                 </div>
             </div>
         </div>

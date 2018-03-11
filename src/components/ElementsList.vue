@@ -24,7 +24,7 @@
                 </tbody>
             </table>
         </div>
-        <div class="col-12 text-center">
+        <div class="col-12 text-center" v-else>
             <h3>No elements to display!</h3>
             <h5>Add an element or generate many by using the form!</h5>
         </div>
