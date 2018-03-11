@@ -1,4 +1,3 @@
-# Vue Todo
 ![Screenshot of VueTodo](https://github.com/SyncroIT/vue-todo/blob/master/screenshot.png?raw=true)
 
 ### What is it?
